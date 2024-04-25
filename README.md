@@ -8,3 +8,5 @@ This repository supports:
 [![The Definitive Guide for using Tailscale and Docker](https://img.youtube.com/vi/tqvvZhGrciQ/maxresdefault.jpg)](https://youtu.be/tqvvZhGrciQ)
 
 
+# Edits by Tero
+1) For compatibility reasons pwd changed.  Windows 11 + WSL occasionally doesn't accept it.
