@@ -6,7 +6,7 @@ services:
     container_name: ts-nginx-test
     hostname: nginx-test
     #environment:
-      #- TS_AUTHKEY=tskey-client-kZye2b2CNTRL-C7hZoFwYhYEKApKDtt3BYEsA4UJAtawk
+      #- TS_AUTHKEY=tskey-client-kG9vWmQvAJ11CNTRL-oXiZcGhEpN3htgQ6fwN5M3CPfEENcjR8N?ephemeral=false
       #- TS_EXTRA_ARGS=--advertise-tags=tag:container
       #- TS_STATE_DIR=/var/lib/tailscale
     volumes:
